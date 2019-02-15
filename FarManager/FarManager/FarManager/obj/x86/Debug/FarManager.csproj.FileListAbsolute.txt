@@ -1,0 +1,6 @@
+/Users/definix/Documents/PP2/FarManager/FarManager/FarManager/bin/Debug/FarManager.exe
+/Users/definix/Documents/PP2/FarManager/FarManager/FarManager/bin/Debug/FarManager.pdb
+/Users/definix/Documents/PP2/FarManager/FarManager/FarManager/obj/x86/Debug/FarManager.csprojAssemblyReference.cache
+/Users/definix/Documents/PP2/FarManager/FarManager/FarManager/obj/x86/Debug/FarManager.csproj.CoreCompileInputs.cache
+/Users/definix/Documents/PP2/FarManager/FarManager/FarManager/obj/x86/Debug/FarManager.exe
+/Users/definix/Documents/PP2/FarManager/FarManager/FarManager/obj/x86/Debug/FarManager.pdb
